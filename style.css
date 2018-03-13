@@ -1,0 +1,46 @@
+body {
+    font-size: 30.5px;
+    background-color: black;
+    font-family: monospace;
+    text-align: center;
+    color: darkviolet;
+}
+
+p{display: inline-block;}
+
+img {
+    padding-top: 50px;
+}
+
+.caveman {
+    display: inline-block;
+
+}
+
+.knuckles {
+    display: inline-block;
+    
+}
+
+.kermit {
+    display: inline-block;
+    
+}
+
+.yeet {
+    display: inline-block;
+}
+
+.evil_kermit {
+    display: inline-block;
+}
+
+.tachalla {
+    display: inline-block;
+}
+
+.text {
+    max-width: 150px;
+    overflow: hidden;
+
+}
